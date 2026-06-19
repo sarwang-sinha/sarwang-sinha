@@ -16,8 +16,9 @@ Building AI products, sharing the process publicly, and learning through executi
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarwang-sinha&show_icons=true&theme=minimal&hide_border=true&count_private=true" alt="Sarwang Sinha GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarwang-sinha&layout=compact&theme=minimal&hide_border=true" alt="Sarwang Sinha Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=sarwang-sinha&show_icons=true&theme=minimal&hide_border=true&count_private=true" alt="Sarwang Sinha GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sarwang-sinha&layout=compact&theme=minimal&hide_border=true" alt="Sarwang Sinha Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?user=sarwang-sinha&theme=minimal&hide_border=true" alt="Sarwang Sinha GitHub Streak" />
 </p>
 
 ### 📁 Top Projects
